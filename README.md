@@ -30,7 +30,7 @@ Killer是一个通用的教务系统选课助手，可以实现一键自动选�
 
 # 获取软件
 
-关注微信公众号 **乂乂又又**，回复 **killer** 即可下载。
+该应用已上架酷安，下载地址： https://www.coolapk.com/apk/cat.love.killer
 
 # 免责声明&反馈
 
